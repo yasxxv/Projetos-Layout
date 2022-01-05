@@ -1,0 +1,66 @@
+{
+  "projects": [
+    {
+      "name": "discovery",
+      "budget": "900",
+      "category": {
+        "id": "2",
+        "name": "Developer"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Contratar dev Front-end",
+          "cost": "500",
+          "description": "Desenvolver tela de maquinas",
+          "id": "c391e626-bf89-40fb-a872-b12a95fe499a"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "publicidade",
+      "budget": "2000",
+      "category": {
+        "id": "6",
+        "name": "Marketing"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Anuncio Insta",
+          "cost": "1000",
+          "description": "Divulgação no instagram",
+          "id": "b12fec0e-8c6f-43df-9a42-7433c8cb299c"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Developer"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Rh"
+    },
+    {
+      "id": 6,
+      "name": "Marketing"
+    }
+  ]
+}

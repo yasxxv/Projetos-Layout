@@ -1,0 +1,7 @@
+Olá, eu fiz esse gerenciador por meio de um video aula no YouTube, no canal Hora de codar!
+ma ótima ferramenta para você usar na sua empressa e controlar os projetos e orçamento, assim podendo altera-lo quando quiser.
+
+Ele e Programado em React e simula um servidor para guardar as informações no banco de dados. Consigo adidionar um Projeto ou excluir e também adicionar, excluir e editar serviços para o projeto sempre fazendo a contabilidade do orçamento e assim salvando no "banco de dados".
+
+
+iniciar: npm run backend, npm run serve;

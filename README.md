@@ -12,6 +12,9 @@ Este repositório eu reservei para deixar guardado os projetos que criei para o 
 
 ### • <a href="https://github.com/yasxxv/Projetos-Layout/tree/main/gerenciador">⚙️ Gerenciador de projetos</a>
 
+### • <a href="https://github.com/yasxxv/Projetos-Layout/tree/main/pokedex">⚡ Pokedex</a>
+
+
 
 ---------------------------
 

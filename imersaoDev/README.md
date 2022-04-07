@@ -12,7 +12,7 @@ Este é um Portfólio de todos os projetos que concluí na imersaoDev da <a href
 - [ ✔️ ] Conversor de moedas;
 - [ ✔️ ] Mentalista;
 - [ ✔️ ] topSeries;
-- [ ✔️ ] Monte seu top filme;
+- [ ✔️ ] topFilme;
 - [ ✔️ ] Tabela de Classificação (Placar Big dos Bigs);
 - [ ✔️ ] Super Trunfo;
 

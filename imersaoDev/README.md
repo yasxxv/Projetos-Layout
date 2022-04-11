@@ -1,4 +1,4 @@
-<img src="" alt="Screenshot do Projeto em funcionamento">
+<img src="img/screenshot.png" alt="Screenshot do Projeto em funcionamento">
 
 >🤿 imersaoDev
 
@@ -16,7 +16,7 @@ Este é um Portfólio de todos os projetos que concluí na imersaoDev da <a href
 - [ ✔️ ] Tabela de Classificação (Placar Big dos Bigs);
 - [ ✔️ ] Super Trunfo;
 
-### 🔗 <a href="">Link do Portfólio</a>
+### 🔗 <a href="https://codepen.io/yasxxv/pen/RwxRpxw">Link do Portfólio</a>
 
 ## 💻 Tecnologias utilizadas
 

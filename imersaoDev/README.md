@@ -23,7 +23,7 @@ Este é um Portfólio de todos os projetos que concluí na imersaoDev da <a href
 - HTML
 - CSS
 - JavaScript
-- codepen
+- CodePen
  
  ---------------------------
 
